@@ -20,7 +20,7 @@
   <table style="margin: 0 auto;" align="center">
     <tr>
       <td>
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Queiroz&layout=compact&theme=react&count_private=true"/>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Queiroz&layout=compact&theme=react&count_private=true&hide=jupyter%20notebook"/>
       </td>
     </tr>
   </table>
